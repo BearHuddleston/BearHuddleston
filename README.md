@@ -34,8 +34,11 @@ Whether it's building rapid prototypes or fine-tuning infrastructure, I love div
   
 - **Data Engineer at OpenText**  
   *Jan 2022 - Jul 2024*  
-  - Assisted the Darklab Research Team with software applications, data management, and machine learning.
-  - Managed VMware environments and automated repetitive tasks.
+  - Designed and implemented ETL pipelines to extract, transform, and load data from various sources for analytics and machine learning projects.
+  - Collaborated with the Darklab Research Team on software applications, advanced data management, and machine learning initiatives.
+  - Managed VMware environments to ensure robust, scalable infrastructure.
+  - Automated routine tasks to streamline data processing and system maintenance.
+  - Developed data quality checks and monitoring processes to maintain high data integrity across workflows.
   
 - **Threat Research Analyst at AppRiver**  
   *Aug 2016 - Jan 2022*  
