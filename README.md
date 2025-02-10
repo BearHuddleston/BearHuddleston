@@ -1,6 +1,6 @@
 # Hey there, I'm Bear Huddleston. 🐻
 
-Welcome to my GitHub profile, where cybersecurity, software development, and AI meet to create cool stuff. I'm a software engineer based in Gulf Breeze, Florida, and I've been tackling everything from threat detection to scalable microservices for over 8 years. If you're into secure code, innovative AI solutions, and a sprinkle of fun along the way, you're in the right place.
+Welcome to my GitHub profile, where cybersecurity, software development, and AI meet to create cool stuff. I'm a software engineer based in Gulf Breeze, Florida, and I've been tackling everything from threat detection to scalable microservices for over 8 years. If you're into threat analysis code, innovative AI solutions, and a sprinkle of fun along the way, you're in the right place.
 
 ---
 
