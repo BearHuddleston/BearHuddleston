@@ -7,9 +7,9 @@ Welcome to my GitHub profile, where cybersecurity, software development, and AI 
 ## 🔍 About Me
 
 I'm passionate about:
-- **Cybersecurity & Threat Detection** 🛡️: Crafting robust solutions to fight off digital villains.
-- **Software Development** 💻: Developing secure, scalable, and efficient code in Go, Python, C++, and beyond.
-- **AI & Generative Models** 🤖: Leveraging the power of AI to push the boundaries of what's possible in threat response and data privacy.
+- 🛡️ **Cybersecurity & Threat Detection** : Crafting robust solutions to fight off digital villains.
+- 💻 **Software Development** : Developing secure, scalable, and efficient code in Go, Python, C++, and beyond.
+- 🤖 **AI & Generative Models** : Leveraging the power of AI to push the boundaries of what's possible in threat response and data privacy.
 
 Whether it's building rapid prototypes or fine-tuning infrastructure, I love diving into new challenges and collaborating with teams to innovate and secure our digital world.
 
