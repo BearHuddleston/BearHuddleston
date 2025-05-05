@@ -1,6 +1,6 @@
 # Hey there, I'm Bear Huddleston. 🐻
 
-Welcome to my GitHub profile, a hub for innovative software development, full-stack solutions, and cutting-edge AI projects. I'm a versatile software engineer based in Gulf Breeze, Florida, with over 8 years of experience creating scalable, robust, and secure applications across diverse technological domains. Whether you're into full-stack coding, AI innovations, or rapid prototyping, you're in the right place.
+Welcome to my GitHub profile, a hub for innovative software development, full-stack solutions, and cutting-edge AI projects. I'm a versatile software engineer based in Pensacola, Florida, with over 8 years of experience creating scalable, robust, and secure applications across diverse technological domains. Whether you're into full-stack coding, AI innovations, or rapid prototyping, you're in the right place.
 
 ---
 
