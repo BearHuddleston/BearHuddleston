@@ -54,5 +54,6 @@ More coming soon. In the meantime, feel free to poke around the repos.
 
 - Email: [bear.huddleston@gmail.com](mailto:bear.huddleston@gmail.com)
 - LinkedIn: [linkedin.com/in/bearhuddleston](https://www.linkedin.com/in/bearhuddleston)
+- Work GitHub: [@Bewarden](https://github.com/Bewarden)
 
 Always happy to chat about AI, developer tools, or whatever you're building.
