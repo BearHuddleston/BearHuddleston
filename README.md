@@ -1,59 +1,75 @@
 # Hey, I'm Bear Huddleston
 
-Senior AI Engineer at [Exodus](https://exodus.com), building developer tooling for one of the most popular crypto wallets out there. Based in Pensacola, Florida with 15+ years of experience shipping software across AI/ML, full-stack development, and data engineering.
+Senior AI Engineer at [Exodus](https://exodus.com), building AI-assisted developer tooling, agent workflows, and secure automation for engineering teams.
+
+I focus on practical AI infrastructure: local-first tools, coding-agent observability, MCP/A2A workflows, LLM integrations, and privacy-conscious developer experience.
 
 ---
 
-## What I'm Working On
+## Open-source work
 
-At Exodus, I build the behind-the-scenes AI tools that make the team faster. Think developer productivity, platform reliability, and infrastructure that just works. In games I always play support—turns out that's how I like to work too.
+### [Perlustron](https://github.com/BearHuddleston/perlustron)
 
-So far: AI scheduling features, 50% search performance improvements, infrastructure modernization with zero downtime, and a lot of code reviews. More coming soon that I can't talk about yet.
+Local-first agent-forensics workbench for Codex and Claude Code JSONL sessions.
+
+Perlustron helps developers understand what happened in an autonomous coding run: where it drifted, what failed, what looped, what changed, and what can be safely shared. It includes an interactive local UI, timeline/transcript views, parser-health diagnostics, redacted exports, diffing, insight queues, release archives, checksum manifests, CI, and privacy/security documentation.
+
+Why it matters:
+
+- helps maintainers debug and review coding-agent sessions without uploading private logs
+- supports Codex and Claude Code session formats with schema-drift visibility
+- emphasizes local execution, redaction, no telemetry, and safe sharing workflows
+- is useful for OSS maintainers adopting coding agents for triage, review, release, and incident workflows
+
+### [honcho-codex-bridge](https://github.com/BearHuddleston/honcho-codex-bridge)
+
+OpenAI-compatible bridge that lets Honcho use ChatGPT/Codex subscription models through a local `/v1/chat/completions`-style endpoint. It reuses Codex/Hermes ChatGPT OAuth credentials and avoids patching Honcho itself.
+
+### [hermes-agent-pool](https://github.com/BearHuddleston/hermes-agent-pool)
+
+Profile-backed specialist-agent plugin for [Hermes Agent](https://github.com/NousResearch/hermes-agent), enabling a main Hermes assistant to call bounded specialist profiles with their own memory, skills, config, and model settings.
+
+---
+
+## What I'm working on
+
+- Coding-agent observability and session forensics
+- Local/private AI developer tools
+- OpenAI-compatible bridges for agent infrastructure
+- Hermes Agent plugins and multi-agent workflows
+- Secure, reviewable automation for engineering teams
 
 ---
 
 ## Background
 
-**Exodus** — Senior AI Engineer (July 2025 - Present)
-- Building AI-powered developer tools for a fully remote, 44+ country team
-- Driving platform performance, automation, and infrastructure modernization
-- Technical leadership across 75+ code reviews and mentoring engineers
+**Exodus** — Senior AI Engineer
 
-**OpenText** — AI Engineer (January 2022 - July 2025)
-- Led design and deployment of GenAI/LLM solutions (RAG, agentic AI, prompt engineering) for enterprise applications
-- Delivered AI/ML POCs from prototype to production
-- Built high-performance AI pipelines and ETL infrastructure with Python, Scala, SQL, and Airflow
-- Partnered with product, engineering, and cybersecurity teams on threat detection and analysis
+- Building AI-powered developer tools for a fully remote engineering organization
+- Driving developer productivity, automation, platform reliability, and AI workflow adoption
+- Reviewing, hardening, and operationalizing AI-assisted engineering workflows
 
-**AppRiver** — Threat Research / ML Engineer (August 2016 - January 2022)
-- Developed ML-driven automation for real-time threat detection and response
-- Built scalable algorithms for analyzing large-scale email and security data
-- Reduced false positives by 15% through improved classification systems
+**OpenText / AppRiver** — AI, ML, data, and threat research engineering
+
+- Built GenAI/LLM, RAG, threat-detection, ETL, and large-scale analysis systems
+- Partnered across engineering, product, and security teams to move prototypes into production
 
 ---
 
-## Tech I Work With
+## Tech I work with
 
-**Languages:** Python, Go, Scala, TypeScript, JavaScript, C++, Java, C#
+**Languages:** Python, Rust, Go, Scala, TypeScript, JavaScript, C++, Java, C#
 
-**AI/ML:** LLMs, RAG, prompt engineering, fine-tuning, agent frameworks, LangChain, model deployment
+**AI/agents:** LLMs, coding agents, RAG, prompt engineering, MCP, A2A, Hermes Agent, Codex, Claude Code
 
-**Data:** Databricks, Snowflake, Elastic, BigQuery, graph databases, Airflow, Spark
-
-**Infrastructure:** CI/CD, containerization, real-time systems, WebSocket architectures
+**Data/infrastructure:** Databricks, Snowflake, Elastic, BigQuery, graph databases, Airflow, Spark, CI/CD, containers
 
 ---
 
-## Projects
+## Get in touch
 
-More coming soon. In the meantime, feel free to poke around the repos.
-
----
-
-## Get In Touch
-
-- Email: [bear.huddleston@gmail.com](mailto:bear.huddleston@gmail.com)
+- Email: [bear@bearhuddleston.dev](mailto:bear@bearhuddleston.dev)
 - LinkedIn: [linkedin.com/in/bearhuddleston](https://www.linkedin.com/in/bearhuddleston)
 - Work GitHub: [@Bewarden](https://github.com/Bewarden)
 
-Always happy to chat about AI, developer tools, or whatever you're building.
+Always happy to talk about AI developer tooling, agent workflows, and local-first OSS.
