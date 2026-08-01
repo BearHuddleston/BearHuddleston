@@ -6,31 +6,6 @@ I focus on practical AI infrastructure: local-first tools, coding-agent observab
 
 ---
 
-## Open-source work
-
-### [Perlustron](https://github.com/BearHuddleston/perlustron)
-
-Local-first agent-forensics workbench for Codex and Claude Code JSONL sessions.
-
-Perlustron helps developers understand what happened in an autonomous coding run: where it drifted, what failed, what looped, what changed, and what can be safely shared. It includes an interactive local UI, timeline/transcript views, parser-health diagnostics, redacted exports, diffing, insight queues, release archives, checksum manifests, CI, and privacy/security documentation.
-
-Why it matters:
-
-- helps maintainers debug and review coding-agent sessions without uploading private logs
-- supports Codex and Claude Code session formats with schema-drift visibility
-- emphasizes local execution, redaction, no telemetry, and safe sharing workflows
-- is useful for OSS maintainers adopting coding agents for triage, review, release, and incident workflows
-
-### [honcho-codex-bridge](https://github.com/BearHuddleston/honcho-codex-bridge)
-
-OpenAI-compatible bridge that lets Honcho use ChatGPT/Codex subscription models through a local `/v1/chat/completions`-style endpoint. It reuses Codex/Hermes ChatGPT OAuth credentials and avoids patching Honcho itself.
-
-### [hermes-agent-pool](https://github.com/BearHuddleston/hermes-agent-pool)
-
-Profile-backed specialist-agent plugin for [Hermes Agent](https://github.com/NousResearch/hermes-agent), enabling a main Hermes assistant to call bounded specialist profiles with their own memory, skills, config, and model settings.
-
----
-
 ## What I'm working on
 
 - Coding-agent observability and session forensics
