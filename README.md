@@ -6,13 +6,17 @@ I focus on practical AI infrastructure: local-first tools, coding-agent observab
 
 ---
 
-## What I'm working on
+## Selected projects
 
-- Coding-agent observability and session forensics
-- Local/private AI developer tools
-- OpenAI-compatible bridges for agent infrastructure
-- Hermes Agent plugins and multi-agent workflows
-- Secure, reviewable automation for engineering teams
+- **[Perlustron](https://github.com/BearHuddleston/perlustron)** — inspect coding-agent sessions, trace failures, compare runs, and export redacted reports. [Downloads](https://github.com/BearHuddleston/perlustron/releases).
+- **[CodexBar KDE](https://github.com/BearHuddleston/codexbar-kde)** — a Linux desktop dashboard for AI subscription usage, history, and pacing. [Downloads](https://github.com/BearHuddleston/codexbar-kde/releases).
+- **[SayAhead](https://github.com/BearHuddleston/sayahead)** — a Build Week accessibility prototype for supervised phone calls with captions and typed guidance. [Simulated demo](https://call-assist-accessible-calls.bearhuddleston.chatgpt.site/) · [Video](https://youtu.be/l9JLMYTbUMs).
+
+## Open-source contributions
+
+- **Hermes Agent:** [Remote HTML previews over SSH](https://github.com/NousResearch/hermes-agent/pull/76008) — merged.
+- **CodexBar:** [Handle logged-out Claude CLI sessions](https://github.com/steipete/CodexBar/pull/2070) — merged.
+- **T3 Code:** [Networking and server-to-server federation](https://github.com/pingdotgg/t3code/pull/9525) — under review.
 
 ---
 
