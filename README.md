@@ -1,54 +1,31 @@
-# Hey, I'm Bear Huddleston
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Bear Huddleston — Practical tools for AI workflows." width="1000">
+</picture></p>
 
-Senior AI Engineer at [Exodus](https://exodus.com), building AI-assisted developer tooling, agent workflows, and secure automation for engineering teams.
+Senior AI Platform Engineer at [Exodus](https://exodus.com). I build tools that make AI workflows easier to inspect, control, and use.
 
-I focus on practical AI infrastructure: local-first tools, coding-agent observability, MCP/A2A workflows, LLM integrations, and privacy-conscious developer experience.
+[Email](mailto:bear@bearhuddleston.dev) · [LinkedIn](https://www.linkedin.com/in/bearhuddleston) · [Work GitHub](https://github.com/Bewarden)
 
----
+## Selected work
 
-## Selected projects
+<p>
+  <a href="https://github.com/BearHuddleston/perlustron"><img src="assets/perlustron.png" alt="Perlustron: a coding-agent session summary with failure evidence" width="32%"></a>
+  <a href="https://github.com/BearHuddleston/codexbar-kde"><img src="assets/codexbar-kde.png" alt="CodexBar KDE: AI subscription usage and remaining budget" width="32%"></a>
+  <a href="https://github.com/BearHuddleston/sayahead"><img src="assets/sayahead.png" alt="SayAhead: a simulated call paused for a typed correction" width="32%"></a>
+</p>
 
-- **[Perlustron](https://github.com/BearHuddleston/perlustron)** — inspect coding-agent sessions, trace failures, compare runs, and export redacted reports. [Downloads](https://github.com/BearHuddleston/perlustron/releases).
-- **[CodexBar KDE](https://github.com/BearHuddleston/codexbar-kde)** — a Linux desktop dashboard for AI subscription usage, history, and pacing. [Downloads](https://github.com/BearHuddleston/codexbar-kde/releases).
-- **[SayAhead](https://github.com/BearHuddleston/sayahead)** — a Build Week accessibility prototype for supervised phone calls with captions and typed guidance. [Simulated demo](https://call-assist-accessible-calls.bearhuddleston.chatgpt.site/) · [Video](https://youtu.be/l9JLMYTbUMs).
+- **[Perlustron](https://github.com/BearHuddleston/perlustron)** — Inspect coding-agent sessions, trace failures, compare runs, and export redacted reports. Runs locally. [Download →](https://github.com/BearHuddleston/perlustron/releases)
+- **[CodexBar KDE](https://github.com/BearHuddleston/codexbar-kde)** — Keep AI subscription usage, history, and pacing in one Linux desktop dashboard. [Download →](https://github.com/BearHuddleston/codexbar-kde/releases)
+- **[SayAhead](https://github.com/BearHuddleston/sayahead)** — A Build Week accessibility prototype for phone calls with captions and typed guidance. [Simulated demo →](https://call-assist-accessible-calls.bearhuddleston.chatgpt.site/) · [Watch](https://youtu.be/l9JLMYTbUMs)
 
-## Open-source contributions
+## Open source
 
-- **Hermes Agent:** [Remote HTML previews over SSH](https://github.com/NousResearch/hermes-agent/pull/76008) — merged.
-- **CodexBar:** [Handle logged-out Claude CLI sessions](https://github.com/steipete/CodexBar/pull/2070) — merged.
-- **T3 Code:** [Networking and server-to-server federation](https://github.com/pingdotgg/t3code/pull/9525) — under review.
-
----
-
-## Background
-
-**Exodus** — Senior AI Engineer
-
-- Building AI-powered developer tools for a fully remote engineering organization
-- Driving developer productivity, automation, platform reliability, and AI workflow adoption
-- Reviewing, hardening, and operationalizing AI-assisted engineering workflows
-
-**OpenText / AppRiver** — AI, ML, data, and threat research engineering
-
-- Built GenAI/LLM, RAG, threat-detection, ETL, and large-scale analysis systems
-- Partnered across engineering, product, and security teams to move prototypes into production
+- **Hermes Agent** · [Remote HTML previews over SSH](https://github.com/NousResearch/hermes-agent/pull/76008) · merged
+- **CodexBar** · [Handle logged-out Claude CLI sessions](https://github.com/steipete/CodexBar/pull/2070) · merged
+- **T3 Code** · [Networking and server-to-server federation](https://github.com/pingdotgg/t3code/pull/9525) · under review
 
 ---
 
-## Tech I work with
-
-**Languages:** Python, Rust, Go, Scala, TypeScript, JavaScript, C++, Java, C#
-
-**AI/agents:** LLMs, coding agents, RAG, prompt engineering, MCP, A2A, Hermes Agent, Codex, Claude Code
-
-**Data/infrastructure:** Databricks, Snowflake, Elastic, BigQuery, graph databases, Airflow, Spark, CI/CD, containers
-
----
-
-## Get in touch
-
-- Email: [bear@bearhuddleston.dev](mailto:bear@bearhuddleston.dev)
-- LinkedIn: [linkedin.com/in/bearhuddleston](https://www.linkedin.com/in/bearhuddleston)
-- Work GitHub: [@Bewarden](https://github.com/Bewarden)
-
-Always happy to talk about AI developer tooling, agent workflows, and local-first OSS.
+Previously at **OpenText / AppRiver**, working on ML, threat research, and data systems. Most of my public work uses **Rust, Python, and TypeScript**.
