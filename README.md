@@ -4,7 +4,7 @@
   <img src="assets/header-light.svg" alt="Bear Huddleston — Practical tools for AI workflows." width="1000">
 </picture></p>
 
-Senior AI Platform Engineer at [Exodus](https://exodus.com). I build tools that make AI workflows easier to inspect, control, and use.
+Software Engineer, Product at [Nous Research](https://nousresearch.com/). I build tools that make AI workflows easier to inspect, control, and use.
 
 [Email](mailto:bear@bearhuddleston.dev) · [LinkedIn](https://www.linkedin.com/in/bearhuddleston) · [Work GitHub](https://github.com/Bewarden)
 
@@ -28,4 +28,4 @@ Senior AI Platform Engineer at [Exodus](https://exodus.com). I build tools that 
 
 ---
 
-Previously at **OpenText / AppRiver**, working on ML, threat research, and data systems. Most of my public work uses **Rust, Python, and TypeScript**.
+Previously at **Exodus**, platforming AI for everyone for internal uses. Most of my public work uses **Rust, Python, and TypeScript**.
